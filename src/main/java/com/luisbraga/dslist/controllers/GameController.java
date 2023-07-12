@@ -1,4 +1,4 @@
-package com.luisbraga.dslist;
+package com.luisbraga.dslist.controllers;
 
 import java.util.List;
 
